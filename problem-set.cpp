@@ -94,6 +94,7 @@ int main(int argc, char* argv[]) {
         
     }else{
     }
+    string password;
     return 0;
 }
 
